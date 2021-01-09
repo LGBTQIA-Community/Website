@@ -11,8 +11,10 @@ www.lgbtqiaplus.community
 Folders and pages in this repo will have information and announcements only. Our website files are kept in private repos for staff only. 
 
 ## Discord Chat
+![enter image description here](https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTY5NzYzNiwtMTkyNjkzODcyNCwtMj
-A3NzYyMjIzLC00NDQ3ODk5MTcsMTA0MjM3MzQxMV19
+eyJoaXN0b3J5IjpbNzQwOTI1NTk2LC0xOTI2OTM4NzI0LC0yMD
+c3NjIyMjMsLTQ0NDc4OTkxNywxMDQyMzczNDExXX0=
 -->
