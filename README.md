@@ -5,7 +5,8 @@ Free LGBTQIA+ social network. A safe place for members of the LGBTQIA+ Community
 www.lgbtqplus.community
 www.lgbtqiaplus.community
 **New Domains Coming Soon**
-# Pages in this re
+# Pages in this Repo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDgyMDk4MF19
+eyJoaXN0b3J5IjpbMTA0MjM3MzQxMV19
 -->
