@@ -3,10 +3,12 @@
 Free LGBTQIA+ social network. A safe place for members of the LGBTQIA+ Community to find friends or maybe more. Join today for free.
 # Domains We Own
 www.lgbtqplus.community
+
 www.lgbtqiaplus.community
+
 **New Domains Coming Soon**
 # Pages in this Repo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjM3MzQxMV19
+eyJoaXN0b3J5IjpbLTQ0NDc4OTkxNywxMDQyMzczNDExXX0=
 -->
