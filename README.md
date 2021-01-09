@@ -7,11 +7,10 @@ www.lgbtqplus.community
 www.lgbtqiaplus.community
 
 **New Domains Coming Soon**
-# Pages & Folders in this Repo
-
-
+# Folders & Pages in this Repo
+Folders and pages in this re
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUzMTc2NiwtMjA3NzYyMjIzLC00ND
-Q3ODk5MTcsMTA0MjM3MzQxMV19
+eyJoaXN0b3J5IjpbLTEyMTU4MDYwMTQsLTIwNzc2MjIyMywtND
+Q0Nzg5OTE3LDEwNDIzNzM0MTFdfQ==
 -->
