@@ -8,9 +8,9 @@ www.lgbtqiaplus.community
 
 **New Domains Coming Soon**
 # Folders & Pages in this Repo
-Folders and pages in this re
+Folders and pages in this repo will have information and announcements only. Our website files are kept in private repos for staff only. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU4MDYwMTQsLTIwNzc2MjIyMywtND
+eyJoaXN0b3J5IjpbLTE5MjY5Mzg3MjQsLTIwNzc2MjIyMywtND
 Q0Nzg5OTE3LDEwNDIzNzM0MTFdfQ==
 -->
