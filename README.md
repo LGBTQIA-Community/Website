@@ -13,8 +13,8 @@ Folders and pages in this repo will have information and announcements only. Our
 ## Discord Chat
 ![enter image description here](https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg)
 
-
+[enter link description here](https://discord.gg/VZDZJ35AYa)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwOTI1NTk2LC0xOTI2OTM4NzI0LC0yMD
-c3NjIyMjMsLTQ0NDc4OTkxNywxMDQyMzczNDExXX0=
+eyJoaXN0b3J5IjpbLTc3ODQ5Njk4NiwtMTkyNjkzODcyNCwtMj
+A3NzYyMjIzLC00NDQ3ODk5MTcsMTA0MjM3MzQxMV19
 -->
