@@ -2,7 +2,7 @@
 
 Splash page is to protect our members from such things as hate crimes. 
 
-![Splash Page](C:\Users\bambi\Documents\GitHub\LGBTQIAPLUSCOMMUNITY\Website\Images\Splash.png)
+![Splash](https://github.com/LGBTQIA-Community/Website/blob/main/Images/Splash.png)
 
 The page shows
 
