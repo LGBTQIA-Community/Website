@@ -1,6 +1,6 @@
 # LGBTQIA+ Community Home Page
 
----
+
 
 Our home page is the heart of our community.
 
